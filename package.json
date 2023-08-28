@@ -1,0 +1,24 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/iamneo-production/effbfbabbefcfdaeefeaebaafbadecd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamneo-production/effbfbabbefcfdaeefeaebaafbadecd/issues"
+  },
+  "homepage": "https://github.com/iamneo-production/effbfbabbefcfdaeefeaebaafbadecd#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "i": "^0.3.7"
+  }
+}
